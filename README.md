@@ -255,7 +255,7 @@ Link: http://ai2.appinventor.mit.edu/?locale=es_ES
 
 En la pestaña Diseñador colocamos todas las variables que van a intervenir en la ejecución del programa al mismo tiempo que se crea la interfaz gráfica de la aplicación, una vez inicializadas todas las variables en la pestaña Diseñador pasamos a la pestaña Bloques para diseñar el código de ejecución.
 
-![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-INVESTIGACION-1.0/blob/master/img/img48.jpeg)
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-INVESTIGACION-1.0/blob/master/img/img48.png)
 
 Pestañas bloques:
 
