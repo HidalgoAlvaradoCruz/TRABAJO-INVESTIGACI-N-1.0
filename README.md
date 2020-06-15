@@ -249,6 +249,8 @@ Link: http://ai2.appinventor.mit.edu/?locale=es_ES
 
 ![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-INVESTIGACION-1.0/blob/master/img/img32.jpeg)
 
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-INVESTIGACION-1.0/blob/master/img/img33.jpeg)
+
 8.EXPLICACIÓN CÓDIGO FUENTE
 
 9.DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
