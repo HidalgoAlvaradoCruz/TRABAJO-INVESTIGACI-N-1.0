@@ -1,5 +1,5 @@
 
-PROGRAMA EN APPI NVENTOR PARA REALIZAR LA CONVERSIÓN DE UN NÚMERO DECIMAL A CÓDIGO BCD APLICABLE AUN DISPLAY DE SIETE SEGMENTOS
+PROGRAMA EN APPI NVENTOR PARA REALIZAR LA CONVERSIÓN DE UN NÚMERO DECIMAL A CÓDIGO BCD APLICABLE AUN DISPLAY DE SIETE SEGMENTOS DE ÁNODO COMÚN.
 
 1.PLANTEAMIENTO DEL PROBLEMA
 Se desconoce la interfaz de funcionamiento, control y conversión de un número decimal a código BCD en App Inventor para un display de siente segmentos, para lo cual se formularon las siguientes preguntas: 
