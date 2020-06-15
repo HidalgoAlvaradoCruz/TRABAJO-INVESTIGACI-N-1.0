@@ -296,7 +296,11 @@ Este circuito se realizó a partir del decodificador “SN74LS47N”, también s
 
 11.CONCLUSIONES
 12.RECOMENDACIONES
+
 13.CRONOGRAMA
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-INVESTIGACION-1.0/blob/master/img/img29.png)
+
 14.BIBLIOGRAFÍA
 15.ANEXOS
 15.1MANUAL DE USUARIO
