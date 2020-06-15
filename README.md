@@ -405,6 +405,37 @@ https://hetpro-store.com/TUTORIALES/display-7-segmentos-anodo-catodo-comun/
 
 15.1MANUAL DE USUARIO
 
+1.	Para ejecutar la aplicación Convertidor de Decimal a Código BCD aplicable a un Display de 7 Segmentos, primero se debe instalar el apk MIT AI2 Companion en nuestro Smartphone con sistema ANDROID 6.0 en adelante, la descarga del apk  se la realiza directamente del Play Store o en el enlace:	  https://play.google.com/store/apps/details?id=edu.mit.appinventor.aicompanion3&hl=es
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-INVESTIGACION-1.0/blob/master/img/img52.png)
+
+2.	Desde un ordenador dirigirse al sitio web de App Inventor seleccionamos el proyecto Trab_Investigacion 1_ALVARADO_CRUZ_HIDALGO en el enlace: http://ai2.appinventor.mit.edu/?locale=es_ES#6673276537798656
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-INVESTIGACION-1.0/blob/master/img/img53.png)
+
+3.	Se puede visualizar la interfaz gráfica del proyecto, dar clic sobre la pestaña Conectar / Al Companion
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-INVESTIGACION-1.0/blob/master/img/img54.png)
+
+4.	Aparece un código QR como paso siguiente se debe abrir la aplicación MIT App Inventor 2 en el celular y escanear  dicho código dando clic en la opción “scan QR code”
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-INVESTIGACION-1.0/blob/master/img/img55.png)
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-INVESTIGACION-1.0/blob/master/img/img56.png)
+
+5.	Automáticamente  la aplicación se abre en el celular, en el campo “ingrese el número” se puede escribir cualquier número decimal de “0” a “9”
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-INVESTIGACION-1.0/blob/master/img/img57.png)
+
+6.	Una vez ingresado el valor deseado le damos clic en CONVERTIR, se puede observar que la aplicación nuestra tanto el CÓDIGO BCD como las SALIDAS del Display de 7 segmentos.
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-INVESTIGACION-1.0/blob/master/img/img58.png)
+
+7.	Finalmente, para ingresar un nuevo número, se debe dar clic en el botón “NUEVO CÁLCULO” caso contrario dar clic en la opción “SALIR” para cerrar la aplicación.
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-INVESTIGACION-1.0/blob/master/img/img59.png)
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-INVESTIGACION-1.0/blob/master/img/img60.png)
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-INVESTIGACION-1.0/blob/master/img/img61.png)
+
 15.2HOJAS TÉCNICAS
 
 ![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-INVESTIGACION-1.0/blob/master/img/img38.png)
