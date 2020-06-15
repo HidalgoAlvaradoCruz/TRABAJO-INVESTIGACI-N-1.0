@@ -238,6 +238,13 @@ Link: http://ai2.appinventor.mit.edu/?locale=es_ES
 •	MIT AI2 
 
 7.MAPA DE VARIABLES
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-INVESTIGACION-1.0/blob/master/img/img30.jpeg)
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-INVESTIGACION-1.0/blob/master/img/img31.jpeg)
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-INVESTIGACION-1.0/blob/master/img/img32.jpeg)
+
 8.EXPLICACIÓN CÓDIGO FUENTE
 
 9.DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
@@ -296,6 +303,7 @@ Este circuito se realizó a partir del decodificador “SN74LS47N”, también s
 
 11.CONCLUSIONES
 12.RECOMENDACIONES
+
 
 13.CRONOGRAMA
 
