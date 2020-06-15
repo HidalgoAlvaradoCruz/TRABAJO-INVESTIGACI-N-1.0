@@ -311,6 +311,7 @@ No sé de debe asignar más de un proceso a un mismo botón, debido a que solo p
 Antes de realizar los bloques de programación, primero se deberá colocar en la interfaz gráfica los botones, campos de texto e imágenes que sea necesarias para la ejecución de la aplicación. Ya que al momento de invocar las variables no se generen errores en el bucle establecido. 
 
 Definir las variables de acuerdo a la función que van a desempeñar dentro del programa, para tener una mejor percepción del mismo.  
+
 Al momento de realizar nuestro circuito de aportación, se recomienda colocar resistencias de protección tanto al Display de 7 segmentos como al integrado “SN74LS47”. Como también es importante mantener un orden en los cables de conexión.
 
 
