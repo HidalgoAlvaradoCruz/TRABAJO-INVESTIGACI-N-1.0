@@ -66,13 +66,13 @@ La herramienta de diseño permite seleccionar los componentes de la App y defini
 Diseñador (Designer)
 La herramienta de diseño permite seleccionar los componentes de una aplicación y definir el entorno de usuario de la misma.
 
-
-IMG4 IMG5
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-INVESTIGACION-1.0/blob/master/img/img4.png)
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-INVESTIGACION-1.0/blob/master/img/img5.png)
 
 Editor de Bloques (Blocks)
 El comportamiento de la aplicación se programa mediante bloques en el editor de bloques.
 
-IMG6
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-INVESTIGACION-1.0/blob/master/img/img6.png)
 
 Características y funciones
 
@@ -106,7 +106,7 @@ Un  código binario de n bits es un grupo de "n" bits que asumen hasta 2 n combi
 
 Los números decimales codificados en binario se detienen en 9 binario 1001 2. Esto significa que, aunque se pueden representar 16 números (2 4) con cuatro dígitos binarios, en el sistema de numeración BCD las seis combinaciones de códigos binarios de: 1010 (decimal 10), 1011 (decimal 11), 1100 (decimal 12), 1101 (decimal 13), 1110 (decimal 14) y 1111 (decimal 15) se clasifican como números prohibidos y no se pueden utilizar.
 
-IMG7
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-INVESTIGACION-1.0/blob/master/img/img7.png)
 
 
 La principal ventaja del código decimal codificado en binario es que permite la conversión fácil entre el formato decimal (base-10) y binario (base-2). Sin embargo, la desventaja es que el código BCD es inútil ya que los estados entre 1010 (decimal 10) y 1111 (decimal 15) no se utilizan. Sin embargo, el decimal codificado en binario tiene muchas aplicaciones importantes, especialmente el uso de pantallas digitales.
@@ -120,7 +120,8 @@ Se puede ver que BCD usa codificación ponderada, porque el bit binario de cada 
 
 Representación decimal codificada en binario de un número decimal
 
-IMG8
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-INVESTIGACION-1.0/blob/master/img/img8.jpg)
 
 El peso decimal de cada dígito decimal a la izquierda aumenta en un factor de 10. En el sistema numérico BCD, el peso binario de cada dígito aumenta en un factor de   2 como se muestra. Luego, el primer dígito tiene un peso de   1 (2 0), el segundo dígito tiene un peso de   2 (2 1), el tercero un peso de   4 (2 2), el cuarto un peso de   8 (2 3).
 El código binario puro se basa en una regla (potencias de 2), mientras que los códigos BCD se basan en una tabla en la que salen los números decimales del 0 al 9 y las correspondientes “traducciones” en BCD. Hay varios tipos de BCD:
@@ -133,7 +134,8 @@ El código binario puro se basa en una regla (potencias de 2), mientras que los 
 
 Si los anteriores códigos se basaban en una regla, éstos se basan en una tabla. El método consiste en sustituir cada dígito decimal por los cuatro bits correspondientes.
 
-IMG9
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-INVESTIGACION-1.0/blob/master/img/img9.jpg)
 
 DISPLAY DE 7 SEGMENTOS
 
@@ -143,7 +145,8 @@ Partes de un display de 7 segmentos
 
 Se le conoce como 7 segmentos por que cuenta con siete diodos led principales y uno extra para representar un punto. También cuenta con una carcasa para cubrirlos y 10 terminales: 2 son de alimentación (2 de Vcd o 2 de Gnd), 1 es para visualizar un punto y  7 son para representar cada uno de los números según la combinación que se le ponga, estos están representados por una letra del abecedario desde la “A” hasta la letra “G”.
 
-IMG10
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-INVESTIGACION-1.0/blob/master/img/img10.png)
 
 Funcionamiento de un display
 
@@ -153,7 +156,8 @@ Ejemplos:
 
 Para representar el numero 3 debemos encender las letras A, B, G, C y D, para representar el numero 6 tenemos que combinar las letras A, F, E, D, C y G.
 
-IMG11
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-INVESTIGACION-1.0/blob/master/img/img11.jpg)
 
 Tipos de display de 7 segmentos 
 
@@ -163,26 +167,30 @@ Al ser un dispositivo muy simple no existe mucha variedad, solo podemos encontra
 
 Se llama así porque todos los leds están unidos en su terminal positiva (ánodo), para encenderlos tenemos que poner tierra en la terminal de la letra que se desee.
 
-IMG12
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-INVESTIGACION-1.0/blob/master/img/img12.jpg)
 
 Cátodo común 
 
 Este display es el opuesto del ánodo común ya que los leds están unidos en la terminal negativa (cátodo). Para encender los leds tenemos que poner voltaje en las terminales de las letras.
 
-IMG13
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-INVESTIGACION-1.0/blob/master/img/img13.jpg)
 
 Display múltiple
 
 Dentro de este tipo podemos encontrar de ánodo o cátodo común, la única diferencia es que son 2, 4 y hasta 6 displays unidos. Estos son ideales para cuando se necesitan representar cifras de más de un dígito.
 
-IMG14
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-INVESTIGACION-1.0/blob/master/img/img14.jpg)
 
 Por tamaño 
 
 En este tipo también podemos encontrar de ánodo o cátodo común, la única variación es el tamaño del display, ya que los podemos encontrar de 2.3 y 4 pulgadas.
 
 
-IMG15
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-INVESTIGACION-1.0/blob/master/img/img15.jpg)
 
 Aplicaciones del display 7 segmentos
 
