@@ -311,6 +311,7 @@ Este circuito se realizó a partir del decodificador “SN74LS47N”, también s
 ![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-INVESTIGACION-1.0/blob/master/img/img29.jpeg)
 
 14.BIBLIOGRAFÍA
+
 [1] Munasinghe, T., Patton, EW y Seneviratne, O. (2019). Desarrollo de aplicaciones IoT usando MIT App Inventor para recopilar y analizar datos de sensores. Conferencia internacional IEEE 2019 sobre Big  Data (Big Data). doi: 10.1109 / bigdata47090.2019.9006203 
 [2] Huang, R. y Turbak, F. (2019). Un diseño para la conversión bidireccional entre bloques y texto para App Inventor. 2019 IEEE Blocks and Beyond Workshop (B&B). doi: 10.1109 / bb48857.2019.8941197 
 
