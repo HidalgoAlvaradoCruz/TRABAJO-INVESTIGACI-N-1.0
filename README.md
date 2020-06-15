@@ -265,9 +265,13 @@ Para realizar los test de nuestro programa en el móvil, será necesario descarg
 Como parte de la aportación se realizó la proyección física a un display de 7 segmentos, a partir del código BCD. 
 Este circuito se realizó a partir del decodificador “SN74LS47N”, también se usaron otros materiales como resistencias, Dip Shitch, cables conectores, un protoboard y un Display 7 segmentos con ánodo común. Y como fuente de alimentación: una fuente de 
 
-El integrado está definido por la siguiente configuración lógica: 
+El integrado está definido por la siguiente configuración lógica:
+
 ![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-INVESTIGACION-1.0/blob/master/img/img17.png)
+
+
 ![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-INVESTIGACION-1.0/blob/master/img/img18.png)
+
 11.CONCLUSIONES
 12.RECOMENDACIONES
 13.CRONOGRAMA
