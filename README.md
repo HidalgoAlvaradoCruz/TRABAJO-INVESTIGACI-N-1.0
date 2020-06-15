@@ -305,11 +305,22 @@ Este circuito se realizó a partir del decodificador “SN74LS47N”, también s
 12.RECOMENDACIONES
 
 
+
 13.CRONOGRAMA
 
 ![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-INVESTIGACION-1.0/blob/master/img/img29.jpeg)
 
 14.BIBLIOGRAFÍA
+[1] Munasinghe, T., Patton, EW y Seneviratne, O. (2019). Desarrollo de aplicaciones IoT usando MIT App Inventor para recopilar y analizar datos de sensores. Conferencia internacional IEEE 2019 sobre Big  Data (Big Data). doi: 10.1109 / bigdata47090.2019.9006203 
+[2] Huang, R. y Turbak, F. (2019). Un diseño para la conversión bidireccional entre bloques y texto para App Inventor. 2019 IEEE Blocks and Beyond Workshop (B&B). doi: 10.1109 / bb48857.2019.8941197 
+
+[3] Lance A. Allison, Mohammad Muztaba Fuad. (2016). Comunicación entre aplicaciones entre aplicaciones de Android desarrolladas en App-Inventor y Android Studio. Conferencia 2016 IEEE / ACM International Conference on Mobile Software  Engineering and Systems (MOBILESoft). doi: 10.1109 / MobileSoft.2016.018
+
+[4] Gonzales,Erick,(2018). Display 7 Segmentos ánodo y cátodo común.Recuperado de:
+https://hetpro-store.com/TUTORIALES/display-7-segmentos-anodo-catodo-comun/
+
+[5]Posada.Fernando,(2019). Creando aplicaciones para móviles Android con MIT App Inventor 2. DOI (web) 104438/2695-4176_OTE_2019_847-19-121-5. https://intef.es/wp-content/uploads/2019/03/MIT-App-Inventor-2.pdf
+
 15.ANEXOS
 15.1MANUAL DE USUARIO
 15.2HOJAS TÉCNICAS
