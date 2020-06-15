@@ -339,8 +339,7 @@ Para realizar los test de nuestro programa en el móvil, será necesario descarg
 
 10.APORTACIONES
 
-Como parte de la aportación se realizó la proyección física a un display de 7 segmentos, a partir del código BCD. 
-Este circuito se realizó a partir del decodificador “SN74LS47N”, también se usaron otros materiales como resistencias, Dip Shitch, cables conectores, un protoboard y un Display 7 segmentos con ánodo común. Y como fuente de alimentación: una fuente de 5[V]
+Como parte de la aportación se realizó la implementación  física a un display de 7 segmentos, a partir del código BCD. Este circuito se realizó a partir del decodificador “SN74LS47N”. En este circuito se requirió el uso de 7 resistencias de 200 Ohms como medida de protección. Se uso también dip  switch de 4 puertos. El display de 7 segmentos con ánodo común. Este circuito se lo realizo en una proboard, usando como fuente de voltaje un transformador con las siguientes características:  	Input: 120V – Output:  5V -1.2 A
 
 
 ![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-INVESTIGACION-1.0/blob/master/img/img19.png)
