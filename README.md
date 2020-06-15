@@ -3,8 +3,10 @@ PROGRAMA EN APPI NVENTOR PARA REALIZAR LA CONVERSIÓN DE UN NÚMERO DECIMAL A C�
 
 PLANTEAMIENTO DEL PROBLEMA
 Se desconoce la interfaz de funcionamiento, control y conversión de un número decimal a código BCD en App Inventor para un display de siente segmentos, para lo cual se formularon las siguientes preguntas: 
-•	¿Cómo se convierte un número decimal a código BCD?
-•	¿Cuál es el lenguaje de programación utilizado en App Inventor?
+•	¿Cómo se convierte un número decimal a código BCD
+
+•	¿Cuál es el lenguaje de programación utilizado en App Inventor
+
 •	¿Cómo funciona un display de siete segmentos?
 
 OBJETIVOS
