@@ -52,7 +52,9 @@ Mis Proyectos (My Projects)
 
 La vista de los proyectos es la primera que se carga cuando se accede a App Inventor, en esta herramienta se puede realizar un seguimiento de todos nuestros proyectos
 
-IMG2
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-INVESTIGACION-1.0/blob/master/img/img2.png)
+
 
 Diseñador (Designer)
 
