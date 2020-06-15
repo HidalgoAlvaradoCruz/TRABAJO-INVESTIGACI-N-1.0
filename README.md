@@ -1,7 +1,7 @@
 
 PROGRAMA EN APPI NVENTOR PARA REALIZAR LA CONVERSIÓN DE UN NÚMERO DECIMAL A CÓDIGO BCD APLICABLE AUN DISPLAY DE SIETE SEGMENTOS
 
-PLANTEAMIENTO DEL PROBLEMA
+1.PLANTEAMIENTO DEL PROBLEMA
 Se desconoce la interfaz de funcionamiento, control y conversión de un número decimal a código BCD en App Inventor para un display de siente segmentos, para lo cual se formularon las siguientes preguntas: 
 
 •	¿Cómo se convierte un número decimal a código BCD
@@ -10,7 +10,7 @@ Se desconoce la interfaz de funcionamiento, control y conversión de un número 
 
 •	¿Cómo funciona un display de siete segmentos?
 
-OBJETIVOS
+2.OBJETIVOS
 
 Objetivo general
 
@@ -24,7 +24,7 @@ Objetivos específicos
 •	Implementar funciones en el diseño del código.
 
 
-ESTADO DEL ARTE
+3.ESTADO DEL ARTE
 
 En 2019, Thilanka Munasinghe, Evan W. Patton y Oshani  Seneviratne del Instituto Politécnico Rensselaer, Departamento de Tecnologías de la Información y Ciencia Cibernética en Estados Unidos, desarrollaron aplicaciones loT usando MIT App Inventor para recopilar y analizar datos de sensores de bajo costo, algoritmos de aprendizaje que han permitido la toma de decisiones basadas en sistemas a gran escala. La plataforma de desarrollo de MIT App Inventor permite crear aplicaciones utilizando varios sensores y plataformas de IoT como Raspberry Pi 2 y Android Things fáciles de programar con un enfoque en la recopilación de datos de sensores conectados en un solo ambiente (Munasinghe, 2019, p.1) [1].
 
@@ -35,7 +35,7 @@ Lance A. Allison y Mohammad Muztaba Fuad del Departamento de Cienecias de la Com
 Para el trabajo de investigación presente, se utilizó el entorno de desarrollo de software MIT App Inventor dirigido a la Conversión de un "NÚMERO DECIMAL A CÓDIGO BCD" (Munasinghe,2019,p.1), el entorno de programación para el aplicativo se hizo sobre la base de MIT App Inventor (Lance,2006,p.1). El sistema tiene la capacidad de proyectar un número decimal de salida  en la pantalla del dispositivo android simulando la proyección de un display de 7 segmentos (R. Huang,F. Turbak,2019).
 
 
-MARCO TEÓRICO
+4.MARCO TEÓRICO
 
 APP INVENTOR
 
@@ -205,5 +205,16 @@ Aplicaciones del display 7 segmentos
 
 Las principales aplicaciones de los displays 7 segmentos son como contadores, relojes de tiempo real, para desplegar marcadores o algún tipo de cuenta regresiva o incremental. 
 
-
-
+5.DIAGRAMAS
+6.LISTA DE COMPONENTES
+7.MAPA DE VARIABLES
+8.EXPLICACIÓN CÓDIGO FUENTE
+9.DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
+10.APORTACIONES
+11.CONCLUSIONES
+12.RECOMENDACIONES
+13.CRONOGRAMA
+14.BIBLIOGRAFÍA
+15.ANEXOS
+15.1MANUAL DE USUARIO
+15.2HOJAS TÉCNICAS
