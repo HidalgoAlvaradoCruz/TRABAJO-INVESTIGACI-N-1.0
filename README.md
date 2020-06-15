@@ -428,6 +428,7 @@ https://hetpro-store.com/TUTORIALES/display-7-segmentos-anodo-catodo-comun/
 5.	Automáticamente  la aplicación se abre en el celular, en el campo “ingrese el número” se puede escribir cualquier número decimal de “0” a “9”
 
 ![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-INVESTIGACION-1.0/blob/master/img/img58.png)
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-INVESTIGACION-1.0/blob/master/img/img61.png)
 
 6.	Una vez ingresado el valor deseado le damos clic en CONVERTIR, se puede observar que la aplicación nuestra tanto el CÓDIGO BCD como las SALIDAS del Display de 7 segmentos.
 
@@ -437,7 +438,7 @@ https://hetpro-store.com/TUTORIALES/display-7-segmentos-anodo-catodo-comun/
 7.	Finalmente, para ingresar un nuevo número, se debe dar clic en el botón “NUEVO CÁLCULO” caso contrario dar clic en la opción “SALIR” para cerrar la aplicación.
 
 ![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-INVESTIGACION-1.0/blob/master/img/img60.png)
-![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-INVESTIGACION-1.0/blob/master/img/img61.png)
+
 
 15.2HOJAS TÉCNICAS
 
