@@ -60,7 +60,8 @@ Diseñador (Designer)
 
 La herramienta de diseño permite seleccionar los componentes de la App y definir el interfaz de usuario de la misma(botones,cuadros de texto, etiquetas, etc.)
 
-IMG3
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-INVESTIGACION-1.0/blob/master/img/img3.png)
 
 Diseñador (Designer)
 La herramienta de diseño permite seleccionar los componentes de una aplicación y definir el entorno de usuario de la misma.
