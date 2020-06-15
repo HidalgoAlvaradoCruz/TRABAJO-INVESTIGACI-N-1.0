@@ -299,7 +299,7 @@ Este circuito se realizó a partir del decodificador “SN74LS47N”, también s
 
 13.CRONOGRAMA
 
-![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-INVESTIGACION-1.0/blob/master/img/img29.png)
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-INVESTIGACION-1.0/blob/master/img/img29.jpeg)
 
 14.BIBLIOGRAFÍA
 15.ANEXOS
