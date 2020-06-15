@@ -206,7 +206,29 @@ Aplicaciones del display 7 segmentos
 Las principales aplicaciones de los displays 7 segmentos son como contadores, relojes de tiempo real, para desplegar marcadores o algún tipo de cuenta regresiva o incremental. 
 
 5.DIAGRAMAS
+
 6.LISTA DE COMPONENTES
+
+•	Laptop 
+
+Procesador: Intel Core i5-7200U CPU @ 2.50Ghz
+
+Memoria instalada (Ram): 8 Gb 
+
+Tipo de sistema: 64 bits. 
+
+Sistema operativo: Windows 8.0 en adelante. 
+
+•	Smartphone. 
+
+Sistema operativo: Android 
+
+•	App Inventor 
+
+Link: http://ai2.appinventor.mit.edu/?locale=es_ES
+
+•	MIT AI2 
+
 7.MAPA DE VARIABLES
 8.EXPLICACIÓN CÓDIGO FUENTE
 9.DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
