@@ -261,6 +261,12 @@ La aplicación creada con App Inventor puede funcionar en cualquier teléfono An
 Para realizar los test de nuestro programa en el móvil, será necesario descargarnos una app desde play store para Android. El nombre de la app es “MIT AI2 Companion”
 
 10.APORTACIONES
+
+Como parte de la aportación se realizó la proyección física a un display de 7 segmentos, a partir del código BCD. 
+Este circuito se realizó a partir del decodificador “SN74LS47N”, también se usaron otros materiales como resistencias, Dip Shitch, cables conectores, un protoboard y un Display 7 segmentos con ánodo común. Y como fuente de alimentación: una fuente de 
+
+El integrado está definido por la siguiente configuración lógica: 
+
 11.CONCLUSIONES
 12.RECOMENDACIONES
 13.CRONOGRAMA
