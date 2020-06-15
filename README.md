@@ -215,6 +215,10 @@ Diagramas Eléctrico
 
 ![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-INVESTIGACION-1.0/blob/master/img/img18.png)
 
+Diagrama de bloques
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-INVESTIGACION-1.0/blob/master/img/img10.png)
+
 6.LISTA DE COMPONENTES
 
 •	Laptop 
