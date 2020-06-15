@@ -217,7 +217,7 @@ Diagramas Eléctrico
 
 Diagrama de bloques
 
-![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-INVESTIGACION-1.0/blob/master/img/img10.png)
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-INVESTIGACION-1.0/blob/master/img/img40.png)
 
 6.LISTA DE COMPONENTES
 
@@ -306,6 +306,15 @@ Este circuito se realizó a partir del decodificador “SN74LS47N”, también s
 ![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-INVESTIGACION-1.0/blob/master/img/img25.png)
 
 11.CONCLUSIONES
+
+En conclusión:
+
+•	Crear una aplicación para convertir un número decimal a BCD en App Inventor 	se torna relativamente sencillo ya que tiene una interfaz muy intuitiva sobre todo en el diseño de la app donde simplemente se escoge bloques a modo de programación y se empaqueta la aplicación en un archivo APK para instalar en cualquier smartphone.
+
+•	El display de siete segmentos funciona a partir de activar o desactivar cada led (“0” o “1”) para formar el número requerido. A partir de esta lógica, mediante el código BCD, el cual nos entrega una combinación diferente para las 10 opciones de números que se pueden generar en el display. Es importante mencionar que en la parte física existen diferentes tipos de display como el de ánodo común y cátodo común.
+
+•	La lógica utilizada en la aplicación para convertir un número decimal a BCD es muy semejante a la aplicada en Java o C++, programas conocidos por la mayoría de estudiantes de ingeniería lo cual facilitó en gran medida la ejecución de la app.
+
 
 12.RECOMENDACIONES
 
