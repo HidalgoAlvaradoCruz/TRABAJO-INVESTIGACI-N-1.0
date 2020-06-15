@@ -207,6 +207,13 @@ Las principales aplicaciones de los displays 7 segmentos son como contadores, re
 
 5.DIAGRAMAS
 
+Diagramas Esquemáticos
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-INVESTIGACION-1.0/blob/master/img/img17.png)
+
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-INVESTIGACION-1.0/blob/master/img/img18.png)
+
 6.LISTA DE COMPONENTES
 
 •	Laptop 
@@ -267,10 +274,7 @@ Este circuito se realizó a partir del decodificador “SN74LS47N”, también s
 
 El integrado está definido por la siguiente configuración lógica:
 
-![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-INVESTIGACION-1.0/blob/master/img/img17.png)
 
-
-![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-INVESTIGACION-1.0/blob/master/img/img18.png)
 
 11.CONCLUSIONES
 12.RECOMENDACIONES
