@@ -302,6 +302,7 @@ Este circuito se realizó a partir del decodificador “SN74LS47N”, también s
 ![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-INVESTIGACION-1.0/blob/master/img/img25.png)
 
 11.CONCLUSIONES
+
 12.RECOMENDACIONES
 
 
@@ -323,7 +324,10 @@ https://hetpro-store.com/TUTORIALES/display-7-segmentos-anodo-catodo-comun/
 [5]Posada.Fernando,(2019). Creando aplicaciones para móviles Android con MIT App Inventor 2. DOI (web) 104438/2695-4176_OTE_2019_847-19-121-5. https://intef.es/wp-content/uploads/2019/03/MIT-App-Inventor-2.pdf
 
 15.ANEXOS
+
 15.1MANUAL DE USUARIO
+
 15.2HOJAS TÉCNICAS
+
 ![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-INVESTIGACION-1.0/blob/master/img/img38.png)
 ![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-INVESTIGACION-1.0/blob/master/img/img39.png)
