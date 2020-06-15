@@ -253,6 +253,56 @@ Link: http://ai2.appinventor.mit.edu/?locale=es_ES
 
 8.EXPLICACIÓN CÓDIGO FUENTE
 
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-INVESTIGACION-1.0/blob/master/img/img42.jpeg)
+
+a.cuando convertir. Clic 
+ejecutar	
+Este botón guarda una serie de instrucciones para realizar la conversión de decimal a binario, las mismas que se ejecutarán siempre y cuando le demos un clic.
+
+si
+entonces
+sino 
+Este ciclo realiza la validación de las condiciones, mientras se cumpla la condición Inicial se ejecuta el proceso de conversión de decimal a código BCD caso contrario arroja el mensaje “El valor ingresado no es válido o se encuentra fuera de rango.”
+
+num_ingresado  Texto (menor =  9)   y  num_ingresado Texto  (mayor = 0)
+Es la condición inicial que rige el ciclo, nos indica que siempre que se ingrese un dato de tipo “Texto” siendo un número entre el “0” y el “9”, el programa ingresa a un nuevo ciclo “si entonces sino” donde después de una validación final se procede a definir las variables y a configurar los mensajes que se arrojarán como resultados.
+
+num_ingresado TEXTO =  0 
+Esta es la última validación que se realiza, aquí se controla si el número ingresado es igual a “0” entonces se definen las variables y se imprimen los resultados, caso contrario pasamos al siguiente número y realizamos el mismo proceso de validación siempre partiendo de un ciclo “si entonces sino”
+ 
+poner codigo_BCD Texto como “0 0 0 0”  
+Esta variable va ha imprimir el número “0 0 0 0” que es el equivalente en CÓDIGO BCD del “0”, según el valor que guarde num_ingresado se imprime un valor distinto, este proceso se realiza para los demás valores.
+poner salidas_Display Texto como “1 1 1 1 1 1 0”
+Esta variable imprime como resultado las SALIDAS que entrega el DISPLAY de 7 SEGMENTOS de ÁNODO COMÚN tomando como lógica de programación al “1” como ENCENDIDO y al “0” como APAGADO
+
+poner seg_a Texto como “a: 1”
+poner seg_b Texto como “b: 1”
+poner seg_c Texto como “c: 1”		En este bloque de variables 
+poner seg_d Texto como “d: 1”		imprime verticalmente los  
+poner seg_e Texto como “e: 1”		segmentos del display indicando  
+poner seg_f Texto como “f: 1”		“1 encendido” y “0 apagado”
+poner seg_g Texto como “g: 1”
+poner segmentos Foto como “ seg_0.png ”    
+Esta variable permite imprimir la imagen que se va ha proyectar según el código BCD
+
+Este proceso se realiza para todos los valores del “0” al “9”
+ Imágenes Código 2 al código 6 
+
+poner  ERROR Texto como  “El valor ingresado no es válido o se encuentra fuera de rango”
+
+Con esta variable se manda a imprimir un mensaje de advertencia en el caso que los valores ingresados por el usuario no sean los correctos.   
+
+b.cuando nuevo_cálculo .Presionar
+	ejecutar
+
+Este proceso reinicia todas las variables, limpiando la pantalla para un nuevo cálculo.
+
+c.cuando salir. Clic
+	ejecutar cerrar la aplicación 
+Este proceso termina el programa y cierra la aplicación.
+
+![](https://github.com/HidalgoAlvaradoCruz/TRABAJO-INVESTIGACION-1.0/blob/master/img/img43.jpeg)  
+
 9.DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
 
 Tener una cuenta de Google, debido a que la verificación y creación de la cuenta en app inventor será a partir de esta. 
