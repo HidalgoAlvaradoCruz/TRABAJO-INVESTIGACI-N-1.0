@@ -231,7 +231,35 @@ Link: http://ai2.appinventor.mit.edu/?locale=es_ES
 
 7.MAPA DE VARIABLES
 8.EXPLICACIÓN CÓDIGO FUENTE
+
 9.DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
+
+Tener una cuenta de Google, debido a que la verificación y creación de la cuenta en app inventor será a partir de esta. 
+Es esencial tener una conexión estable a internet, debido que será necesario para la creación del programa en app inventor. 
+Los sistemas operativos de los computadores en los cuales funciona app inventor son: 
+
+•	Macintosh (con procesador Intel): Mac OS X 10.5, 10.6
+
+•	Windows: Windows XP, Windows Vista, Windows 7
+
+•	GNU / Linux: Ubuntu 8 +, 5 + Debian
+
+
+Tener un computador con todas las actualizaciones necesarias, como también nuestro navegador deberá tener las siguientes especificaciones: 
+
+•	Mozilla Firefox 3.6 o superior
+
+•	Apple Safari 5.0 o superior
+
+•	Google Chrome 4.0 o superior
+
+•	Microsoft Internet Explorer 7 o superior
+
+
+La aplicación creada con App Inventor puede funcionar en cualquier teléfono Android. El entorno de desarrollo y software de instalación se apoya directamente a los teléfonos siguientes: Los dispositivos adicionales requieren los controladores de Windows proporcionados por el fabricante del hardware.
+
+Para realizar los test de nuestro programa en el móvil, será necesario descargarnos una app desde play store para Android. El nombre de la app es “MIT AI2 Companion”
+
 10.APORTACIONES
 11.CONCLUSIONES
 12.RECOMENDACIONES
